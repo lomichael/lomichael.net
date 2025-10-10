@@ -3,7 +3,8 @@ layout: page
 title: Michael Lo 
 ---
 
-  <h1 class="content-listing-header sans">Writing</h1>
+This is Michael's Lo website. I am a human who cares about humans.
+
   <ul class="content-listing ">
     {% for post in site.posts %}      
         <li class="listing">

@@ -2,9 +2,8 @@
 layout: page
 title: About
 ---
-# About
 
-I am an independent researcher. I'm interested in working to ensure current and future systems are beneficial to humanity.
+I am an independent researcher. I'm interested in building systems that are beneficial to humanity.
 
 Currently, I am a [Master's student](https://omscs.gatech.edu/) in the [College of Computing](https://www.cc.gatech.edu/) at the [Georgia Institute of Technology](https://www.gatech.edu/). Previously, I researched sycophancy evaluations with Aaron Scher through the [Supervised Program for Alignment Research](https://sparai.org/).
 
