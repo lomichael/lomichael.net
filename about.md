@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 
 I am an independent researcher. I'm interested in building systems that are beneficial to humanity.

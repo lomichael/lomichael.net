@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Michael Lo 
+permalink: /
 ---
 
 This is Michael's Lo website. I am a human who cares about humans.
