@@ -2,13 +2,11 @@
 layout: full-width
 title: About
 ---
+I am an independent researcher. I'm interested in working to ensure current and future systems are beneficial to humanity.
 
-The *Tufte-Jekyll* theme is a natural extension of the work done by [Edward Tufte](https://github.com/edwardtufte/tufte-css) and his collaborators on Github who created a CSS file that allows web writers to use the same simple and elegant style employed in his published materials.
+Currently, I am a [Master's student](https://omscs.gatech.edu/) in the [College of Computing](https://www.cc.gatech.edu/) at the [Georgia Institute of Technology](https://www.gatech.edu/). Previously, I researched sycophancy evaluations with Aaron Scher through the [Supervised Program for Alignment Research](https://sparai.org/).
 
-To incorporate these styles into a Jekyll theme, I have made some very slight modifications that attempt to maintain the feel of the CSS styles in his Github repo.
+Outside of work, I enjoy reading books, board and card games, racket sports, and time with my family and church.
 
-Note that this is a full-width layout. This was accomplished by including ```layout: full-width``` in the YAML front matter for this page. Keep in mind that all the Tufte-Jekyll sidenote and marginnote goodness will not work on full-width layouts! 
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll).
-
+[Email](mailto:michael@lomichael.net) \| [Twitter](https://twitter.com/lomichael_net) \| [GitHub](https://github.com/lomichael) \| [CV](https://lomichael.net)
 
