@@ -12,5 +12,5 @@ Outside of work, I enjoy reading books, board and card games, racket sports, and
 
 I invite feedback and you can submit anonymous feedback [here](https://www.admonymous.co/michael-lo).
 
-[Email](mailto:michael@lomichael.net) \| [Twitter](https://twitter.com/lomichael_net) \| [GitHub](https://github.com/lomichael) \| [CV](https://lomichael.net)
+[Email](mailto:michael@lomichael.net) \| [Twitter](https://twitter.com/_lomichael) \| [GitHub](https://github.com/lomichael) \| [CV](https://lomichael.net)
 
