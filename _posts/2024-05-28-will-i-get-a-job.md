@@ -6,6 +6,7 @@ categories: career
 ---
 
 You can also [see this question on Manifold](https://manifold.markets/lomichael/will-i-get-a-software-engineering-j-lgsrxz2nab?r=bG9taWNoYWVs). Resolves YES if I receive an offer for a full-time job doing software engineering, ML engineering, and/or research engineering by September 1, 2024. Resolves NO if I do not receive an offer for a full-time job doing software engineering, ML engineering, and/or research engineering by September 1, 2024.
+<!--more-->
 
 ## My plan for the next 3 months
 **Edit (2024/08/27)**: I resolved the Manifold question as NO and provided more information in a comment [here](https://manifold.markets/lomichael/will-i-get-a-software-engineering-j-lgsrxz2nab?r=bG9taWNoYWVs#v8cknp8otf). In summary, I've been struggling with mental health issues like grief, depression, anxiety, and ADHD. These issues in tandem with the pressure of searching for jobs caused me to burnout. I am currently doing weekly sessions of therapy to understand and work through these obstacles. 

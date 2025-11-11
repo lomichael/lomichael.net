@@ -1,9 +1,9 @@
 baseurl:
 title: Michael Lo 
-subtitle: Research blog 
+subtitle: Writing 
 author: Michael Lo 
 simple_search: http://google.com/search
-description: A website for Michael Lo's research. 
+description: The website of Michael Lo. 
 name: tufte
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
@@ -17,11 +17,5 @@ post:
 page:
   template: _page.txt
   extension: md
-editor: gvim
 git:
   branch: master
-transfer:
-  command: rsync
-  settings: -av
-  source: _site/
-  destination: ~/Git/clayh53.github.com/

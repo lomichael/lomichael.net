@@ -5,6 +5,7 @@ date: 2024-05-01
 categories: srs
 ---   
 Compiling and organizing resources on spaced repetition systems, specifically Anki.
+<!--more-->
 
 Andy Matuschak [studies quantum mechanics with Dwarkesh Patel](https://www.youtube.com/watch?v=OFuu4pesKf0) and explains [how to write good prompts](https://andymatuschak.org/prompts).
 
