@@ -3,6 +3,7 @@ layout: post
 title: "Will I get a software engineering job within 3 months?"
 date: 2024-05-28
 categories: career 
+permalink: /will-i-get-job/
 ---
 
 You can also [see this question on Manifold](https://manifold.markets/lomichael/will-i-get-a-software-engineering-j-lgsrxz2nab?r=bG9taWNoYWVs). Resolves YES if I receive an offer for a full-time job doing software engineering, ML engineering, and/or research engineering by September 1, 2024. Resolves NO if I do not receive an offer for a full-time job doing software engineering, ML engineering, and/or research engineering by September 1, 2024.

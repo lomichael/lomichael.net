@@ -3,6 +3,7 @@ layout: post
 title: "Experimenting with SRS"
 date: 2024-05-01
 categories: srs
+permalink: /srs/
 ---   
 Compiling and organizing resources on spaced repetition systems, specifically Anki.
 <!--more-->
