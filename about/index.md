@@ -10,7 +10,7 @@ Currently, I am a [Master's student](https://omscs.gatech.edu/) in the [College 
 
 Outside of work, I enjoy reading books, board and card games, racket sports, and time with my family and church.
 
-I invite feedback and you can submit anonymous feedback [here](https://www.admonymous.co/michael-lo).
+I invite feedback and you can submit anonymous feedback [here](https://www.admonymous.co/lomichael).
 
 [Email](mailto:michael@lomichael.net) \| [Twitter](https://twitter.com/_lomichael) \| [GitHub](https://github.com/lomichael) \| [CV](https://lomichael.net)
 
