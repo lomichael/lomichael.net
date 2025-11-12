@@ -2,6 +2,7 @@
 layout: page
 title: Favorites 
 permalink: /favorites/
+order: 2
 ---
 
 A list of some of my favorites in life.

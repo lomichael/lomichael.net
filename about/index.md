@@ -2,6 +2,7 @@
 layout: page
 title: About 
 permalink: /about/
+order: 1
 ---
 
 I am a researcher and writer interested in art, science, theology, and philosophy. I am also a Christian and a husband.

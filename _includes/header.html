@@ -1,7 +1,9 @@
 <!--- Header and nav template site-wide -->
+{% assign pages_list = (site.pages | sort: 'order') %}
+
 <header>
     <nav class="group">
-	{% for node in site.pages %}
+	{% for node in pages_list %}
 		{% unless node.nav_exclude %}
 		    {% if page.url == node.url %}
 		      <a class="active" href="{{node.url | prepend: site.baseurl}}" class="active">{{node.title}}</a>

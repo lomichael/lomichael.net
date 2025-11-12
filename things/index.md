@@ -2,6 +2,7 @@
 layout: page
 title: Things 
 permalink: /things/
+order: 3
 ---
 
 A list of some of the things I use. I expect to update this over time. Check out others by [Gwern](https://gwern.net/me#uses-this), [Gavin Leech](https://www.gleech.org/stuff), and [Alexey Guzey](https://guzey.com/tools-gear/).
@@ -22,7 +23,7 @@ A list of some of the things I use. I expect to update this over time. Check out
 **Pen**: Tactile Turn Titanium Bolt-Action Pen.
 
 ## Computers
-**Main Laptop**: 14-inch M1 Pro Macbook Pro
+**Main Laptop**: 14-inch M1 Pro Macbook Pro.
 
 **Other Laptop**: ThinkPad X220, i5-2520M, 16GB DDR3 RAM, 160GB 2.5-inch SSD, KingSener 9-cell battery.
 
