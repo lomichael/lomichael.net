@@ -1,14 +1,12 @@
 ---
 layout: page
-title: About
+title: About 
 permalink: /about/
 ---
 
-I am a researcher interested in the societal impacts of AI and the future of humanity.
+I am a researcher and writer interested in art, science, theology, and philosophy. I am also a Christian and a husband.
 
-Currently, I am a [Master's student](https://omscs.gatech.edu/) in the [College of Computing](https://www.cc.gatech.edu/) at the [Georgia Institute of Technology](https://www.gatech.edu/). Previously, I researched sycophancy evaluations with [Aaron Scher](https://ascher8.github.io/) through the [Supervised Program for Alignment Research](https://sparai.org/).
-
-Outside of work, I enjoy reading books, board and card games, racket sports, and time with my family and church.
+I have been a computer science student, carpenter, bug bounty hunter, research assistant, app developer, proofreader, and custodian.
 
 I invite feedback and you can submit anonymous feedback [here](https://www.admonymous.co/lomichael).
 
