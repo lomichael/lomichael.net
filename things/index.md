@@ -2,7 +2,7 @@
 layout: page
 title: Things 
 permalink: /things/
-order: 3
+nav_exclude: true
 ---
 
 A list of some of the things I use. I expect to update this over time. Check out others by [Gwern](https://gwern.net/me#uses-this), [Gavin Leech](https://www.gleech.org/stuff), and [Alexey Guzey](https://guzey.com/tools-gear/).
@@ -50,7 +50,7 @@ A list of some of the things I use. I expect to update this over time. Check out
 
 **Website and App Blocker**: Cold Turkey Blocker.
 
-**Spaced Repetition**: Anki
+**Spaced Repetition**: Anki.
 
 ## Carry
 **Bag**: "The Renew Transit Fanny Pack" by Everlane.

@@ -2,7 +2,7 @@
 layout: page
 title: Favorites 
 permalink: /favorites/
-order: 2
+nav_exclude: true
 ---
 
 A list of some of my favorites in life.
