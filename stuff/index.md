@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Things 
-permalink: /things/
+title: Stuff 
+permalink: /stuff/
 nav_exclude: true
 ---
 
-A list of some of the things I use. I expect to update this over time. Check out others by [Gwern](https://gwern.net/me#uses-this), [Gavin Leech](https://www.gleech.org/stuff), and [Alexey Guzey](https://guzey.com/tools-gear/).
+A list of some of the stuff I use. I expect to update this over time. Check out others by [Gwern](https://gwern.net/me#uses-this), [Gavin Leech](https://www.gleech.org/stuff), and [Alexey Guzey](https://guzey.com/tools-gear/).
 
 ## Workspace 
 **Desk**: Jarvis Standing Desk.
 
-**Monitor**: DELL P2415Q.
+**Monitor**: Dell P2415Q 24-inch 4K Monitor.
 
 **Keyboard**: HHKB Professional Hybrid Type-S.
 
@@ -23,7 +23,7 @@ A list of some of the things I use. I expect to update this over time. Check out
 **Pen**: Tactile Turn Titanium Bolt-Action Pen.
 
 ## Computers
-**Main Laptop**: 14-inch M1 Pro Macbook Pro.
+**Main Laptop**: Macbook Pro, 14-inch, M1 Pro.
 
 **Other Laptop**: ThinkPad X220, i5-2520M, 16GB DDR3 RAM, 160GB 2.5-inch SSD, KingSener 9-cell battery.
 
@@ -40,15 +40,17 @@ A list of some of the things I use. I expect to update this over time. Check out
 
 **Browser**: Firefox.
 
-**Notes**: Obsidian.
+**Email**: Proton.
 
-**Cloud Suite**: Proton.
+**VPN**: Proton.
 
 **Calendar**: Google Calendar.
 
 **Password Manager**: KeepassXC.
 
 **Website and App Blocker**: Cold Turkey Blocker.
+
+**Notes**: Obsidian.
 
 **Spaced Repetition**: Anki.
 

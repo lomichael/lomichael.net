@@ -8,8 +8,8 @@ I am a researcher and writer interested in art, science, theology, and philosoph
 
 I have been a computer science student, carpenter, bug bounty hunter, research assistant, app developer, proofreader, and custodian.
 
-I've also made lists of [things I use](https://lomichael.net/things/) and [my favorite things](https://lomichael.net/favorites/).
+I've made lists of [the stuff I use](https://lomichael.net/stuff/) and [my favorite things in life](https://lomichael.net/favorites/).
 
 ## Contact
-I can be reached by [email](mailto:michael@lomichael.net) and through [Twitter](https://twitter.com/lomichael_). If you prefer to remain anonymous, you can submit feedback [here](https://www.admonymous.co/lomichael).
+I can be reached by [email](mailto:michael@lomichael.net) and through [X (formerly Twitter)](https://x.com/lomichael_). If you prefer to remain anonymous, you can submit feedback [here](https://www.admonymous.co/lomichael).
 
